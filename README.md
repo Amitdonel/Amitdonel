@@ -1,6 +1,25 @@
-# 💫 About Me:
-Hi, I'm Amit Donel, a third-year Computer Science student.<br>This GitHub showcases a selection of my academic projects and independent development work.<br>You're welcome to explore!<br><br>Computer Science student at Afeka College with a strong foundation in software engineering principles<br><br>Proactive and reliable team player with leadership experience and a clear focus on delivering clean, efficient solutions<br><br>Proficient in React, React Native, .NET, Java, C, C#, C++ and TypeScript, with experience in both frontend and backend development<br><br>Developed and deployed fullstack applications, including mobile platforms with real-time features and CRUD-based web systems<br><br>Completed advanced coursework in algorithms, operating systems, and data structures, demonstrating strong analytical skills<br><br>Adaptable and multilingual (Hebrew, English, Persian), with excellent communication and collaboration abilities<br><br>Highly motivated to grow as a developer, contribute to impactful projects, and continuously learn new technologies
+# About Me:
+Hi, I'm Amit Donel, a Computer Science graduate with hands-on experience in mobile and web development using React Native, Firebase, and Node.js.<br>
+Strong foundation in C/C#/C++, Java, Python, and object-oriented programming.<br>
+Passionate about building clean, scalable solutions, collaborating in team environments, and continuously learning.<br>
+Actively seeking a junior software engineer role in a dynamic, impact-driven team.<br><br>
 
+This GitHub showcases a selection of my academic projects and independent development work.<br>
+You're welcome to explore!<br><br>
+
+Computer Science graduate from Afeka College of Engineering with a strong foundation in software engineering principles<br><br>
+
+Proactive and reliable team player with leadership experience and a clear focus on delivering clean, efficient solutions<br><br>
+
+Proficient in React, React Native, .NET, Java, C, C#, C++ and TypeScript, with experience in both frontend and backend development<br><br>
+
+Developed and deployed fullstack applications, including mobile platforms with real-time features and CRUD-based web systems<br><br>
+
+Completed advanced coursework in algorithms, operating systems, and data structures, demonstrating strong analytical skills<br><br>
+
+Adaptable and multilingual (Hebrew, English, Persian), with excellent communication and collaboration abilities<br><br>
+
+Highly motivated to grow as a developer, contribute to impactful projects, and continuously learn new technologies
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AmitDonel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Amit.Donel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AmitDonel) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AmitDonel) 
