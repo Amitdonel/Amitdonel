@@ -1,8 +1,10 @@
 # About Me:
-Hi, I'm Amit Donel, a Computer Science graduate with hands-on experience in mobile and web development using React Native, Firebase, and Node.js.<br>
-Strong foundation in C/C#/C++, Java, Python, and object-oriented programming.<br>
-Passionate about building clean, scalable solutions, collaborating in team environments, and continuously learning.<br>
-Actively seeking a junior software engineer role in a dynamic, impact-driven team.<br><br>
+Hi, I’m Amit Donel — a Computer Science graduate with a strong foundation in software engineering, algorithms, and system-oriented development.
+
+I have hands-on experience building logic-driven systems, fullstack applications, and real-time features, with practical work in C, C++, C#, Java, Python, and modern development frameworks.
+
+I enjoy working close to the system logic — designing clean architectures, implementing algorithms, and solving complex problems — while collaborating effectively in team environments.
+
 
 This GitHub showcases a selection of my academic projects and independent development work.<br>
 You're welcome to explore!<br><br>
